@@ -727,6 +727,7 @@ header nav .form i{
     position: absolute;
     left: 100px;
     top: -20px;
+    width: 150px;
 }
 @media (max-width:1665px){
     .skills .testimonals .srv .image{
